@@ -58,7 +58,7 @@ public class Server
 
 			if(c.equals("3"))
 			{
-				// DELETE
+				// DELETE file from the Server Database
 
 				File file2 = new File(nold);
 				file2.delete();
