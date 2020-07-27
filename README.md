@@ -1,2 +1,2 @@
 # Projects
-Collection of my Bachelor's and Master's level projects
+This directory contains the collection of my Bachelor's and Master's level projects
