@@ -63,7 +63,7 @@ public class Client
 
 			if(c.equals("3"))
 			{
-				// DELETE
+				// DELETE file from the Server Database
 
 				// 06. Receive text message
 				msgin = dis.readUTF();
