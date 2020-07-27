@@ -3,7 +3,7 @@
 
 	01.	Program Details:
 
-		(i)	Coded on November 2019
+		(i)	Date: 26th September, 2019
 		(ii)	Language: Java
 
 	02.	Problem Statement:
