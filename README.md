@@ -1,2 +1,2 @@
 # Projects
-Collection of Bachelor's and Master's level projects
+Collection of my Bachelor's and Master's level projects
