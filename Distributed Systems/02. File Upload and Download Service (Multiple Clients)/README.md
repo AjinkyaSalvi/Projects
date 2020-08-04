@@ -49,3 +49,5 @@
 
 		(ii)	'Server Database' and 'Client Database' folders represent the server's and client's database respectively
 			for storing files used for this program.
+
+		(iii)	File locking techniques can also be used for this program to prevent multiple file access errors.
