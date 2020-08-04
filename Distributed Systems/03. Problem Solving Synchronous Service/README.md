@@ -15,7 +15,7 @@
 			d)	Multiply three matrices.
 
 		(ii)	The Server should support synchronicity and
-			the client should wait for the results.
+			the client should wait for the results from the Server.
 
 	03.	Code Execution:
 
