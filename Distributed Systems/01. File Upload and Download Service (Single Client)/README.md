@@ -31,7 +31,7 @@
 		(i)	Before compiling and running these files,
 			you have to set the path of 'Client Database' sub-folder and 'Server Database' subfolder inside these files.
 
-		(ii)	To complie the above programs,
+		(ii)	To compile the above programs,
 			change the directory of the Terminal or Command Prompt to the folder containing these files.
 
 		(iii)	Then, enter 'javac Server.java' and 'javac Client.java' to compile these files.
