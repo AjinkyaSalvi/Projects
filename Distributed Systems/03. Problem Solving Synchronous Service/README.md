@@ -22,10 +22,10 @@
 		(i)	To compile the above programs,
 			change the directory of the Terminal or Command Prompt to the folder containing these files.
 
-		(iii)	Then, enter 'javac Server.java' and 'javac Client.java' to compile these files.
+		(ii)	Then, enter 'javac Server.java' and 'javac Client.java' to compile these files.
 			You can only run these files after compiling them.
 
-		(iv)	Finally, to run these files correctly,
+		(iii)	Finally, to run these files correctly,
 			first, run 'Server.class' by entering 'java Server' then run 'Client.class' by entering 'java Client'.
 
 	04.	Note:
