@@ -3,7 +3,7 @@ MySQL
 01.	Program Details:
 
 	(i)	Date: 2nd October, 2019
-	(ii)	Languages: MySQL
+	(ii)	Languages: SQL
 
 02.	Problem Statement:
 
