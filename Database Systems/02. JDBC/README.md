@@ -3,7 +3,7 @@ JDBC
 01.	Program Details:
 
 	(i)	Date: 25th November, 2019
-	(ii)	Languages: JDBC, MySQL
+	(ii)	Languages: JDBC, SQL
 
 02.	Problem Statement:
 
