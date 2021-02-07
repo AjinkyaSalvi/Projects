@@ -3,7 +3,7 @@ Library Management System - Android Application
 01.	Program Details:
 
 	(i)	Date: 26th November, 2019
-	(ii)	Language: Java, XML
+	(ii)	Language: Java (Android), XML
 
 02.	Problem Statement:
 
